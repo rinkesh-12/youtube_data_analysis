@@ -81,5 +81,3 @@ DC (Drought Code) and ISI (Initial Spread Index) show strong correlation with bu
     jupyter notebook forest_fire.ipynb
 4. Run all cells to reproduce the analysis.
 
-🚀 How to Run the Project
-Clone the repository:
